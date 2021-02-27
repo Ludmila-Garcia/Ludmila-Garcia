@@ -9,7 +9,7 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludmila-Garcia&hide=html&layout=compact&theme=synthwave" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ludmila Garcia&theme=synthwave"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ludmila Garcia&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  
