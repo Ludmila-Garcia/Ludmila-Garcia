@@ -10,8 +10,6 @@
     </tr>   
 </table>
 </center>  
-<!--
-**Ludmila-Garcia/Ludmila-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ### Olá! Seja Bem vindo(a) :) <img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/Hi.gif" width="30px">
@@ -39,6 +37,13 @@ Onde me encontrar? :mag:
 ---  
 
 ![](https://komarev.com/ghpvc/?username=Ludmila-Garcia&color=blue&style=flat)
+
+
+
+<!--
+**Ludmila-Garcia/Ludmila-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+
 
 
 
