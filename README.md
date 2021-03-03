@@ -2,10 +2,6 @@
 
 
 
-### Hi there 👋
-
-
-
 <center>
 <table>
     <tr>
@@ -25,8 +21,6 @@
 Sou formada em Ciência da Computação e Sistemas para Internet, amo as infinitas possibilidades que a tecnologia pode proporcionar na vida das pessoas, e nós como programadores podemos trazer soluções para vários problemas que muitas pessoas enfrentam e isso me faz amar cada vez mais a tecnologia.
 ---
 
-
-Here are some ideas to get you started:
 
 - 🔭 Atualmente, estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo Front-end, utilizando as tecnologias HTML5, CSS3 e Javascript.
