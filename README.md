@@ -15,13 +15,13 @@
 ### Olá! Seja Bem vindo(a) :) <img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/Hi.gif" width="30px">
 
 ---
-- 🌱 Sou formada em Ciência da Computação e Sistemas para Insternet, amo as infinitas possibilidades que a tecnologia pode proporcionar na vida das pessoas, e nós como programadores podemos trazer soluções para vários problemas que muitas pessoas enfrentam e isso me faz amar cada vez mais a tecnologia.
+- Sou formada em Ciência da Computação e Sistemas para Insternet, amo as infinitas possibilidades que a tecnologia pode proporcionar na vida das pessoas, e nós como programadores podemos trazer soluções para vários problemas que muitas pessoas enfrentam e isso me faz amar cada vez mais a tecnologia.
 ---
 
 
 - 🌱 Atualmente estou aprendendo Front-end, utilizando as tecnologias HTML5, CSS3 e Javascript.
 - 👯 Estou procurando colaborar em projetos que eu possa praticar as tecnologias que estou aprendendo.
-- Tenho um perfil no Instagram onde compartilho dicas do Mundo da Programação, o perfil é: <a href="https://www.instagram.com/mundo.daprogramacao/"><img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/mundo.daprogramacao)  
+- Tenho um perfil no Instagram onde compartilho dicas do Mundo da Programação, o perfil é o @mundo.daprogramacao.
 
 ---
 Onde me encontrar? :mag:  
