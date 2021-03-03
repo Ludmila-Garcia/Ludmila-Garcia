@@ -1,6 +1,7 @@
+![capa github](https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/Capa_github.png)  
 
 
-<img width="400px" align="center" src="capa_github" />  
+
 ### Hi there 👋
 
 
