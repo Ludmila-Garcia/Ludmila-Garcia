@@ -17,14 +17,34 @@
 <!--
 **Ludmila-Garcia/Ludmila-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### Olá! Seja Bem vindo(a) :) <img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/Hi.gif" width="30px">
+
+---
+
+Sou formada em Ciência da Computação e Sistemas para Internet, amo as infinitas possibilidades que a tecnologia pode proporcionar na vida das pessoas, e nós como programadores podemos trazer soluções para vários problemas que muitas pessoas enfrentam e isso me faz amar cada vez mais a tecnologia.
+---
+
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente, estou trabalhando em ...
+- 🌱 Atualmente estou aprendendo Front-end, utilizando as tecnologias HTML5, CSS3 e Javascript.
+- 👯 Estou procurando colaborar em projetos que eu possa praticar as tecnologias que estou aprendendo.
+
+---
+Onde me encontrar? :mag:  
+
+
+<a href="https://www.instagram.com/mundo.daprogramacao/"><img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/mundo.daprogramacao)  
+
+<a href="https://www.linkedin.com/in/ludmila-garcia-6b44abb5/"><img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/Ludmila-Garcia)  
+
+<a href="mailto:contatoludmila44@gmail.com"><img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/email.png" width="16"></img></a> [Email](mailto:contatoludmila44@gmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=Ludmila-Garcia&color=blue&style=flat)
+
+
+
