@@ -15,7 +15,7 @@
 ### Olá! Seja Bem vindo(a) :) <img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/Hi.gif" width="30px">
 
 ---
-- Sou formada em Ciência da Computação e Sistemas para Insternet, amo as infinitas possibilidades que a tecnologia pode proporcionar na vida das pessoas, e nós como programadores podemos trazer soluções para vários problemas que muitas pessoas enfrentam e isso me faz amar cada vez mais a tecnologia.
+- Sou formada em Ciência da Computação e Sistemas para Insternet, amo as infinitas possibilidades que a tecnologia pode proporcionar na vida das pessoas, e nós como programadores podemos trazer soluções para vários problemas que muitas pessoas enfrentam no dia a dia e isso me faz amar cada vez mais a tecnologia.
 ---
 
 
