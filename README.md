@@ -15,10 +15,25 @@
 ### Hello! Welcome :) <img src="https://github.com/Ludmila-Garcia/Ludmila-Garcia/blob/main/images/Hi.gif" width="30px">
 
 ---
-- I have a degree in Computer Science and Internet Systems, I love the infinite possibilities that technology can provide in people's lives, and we as programmers can bring solutions to various problems that many people face on a daily basis and this makes me love technology more and more.
+👋 Hi there! I'm Ludmila — a passionate developer with a strong academic foundation and a deep interest in building intelligent, impactful technology.
+
+🎓 I hold a Bachelor’s Degree in Computer Science and a degree in AAS – Internet Systems, which have equipped me with a solid understanding of software development and web technologies. I'm currently expanding my skills through the Data Science program at Oracle Next Education, diving deeper into data-driven solutions and AI applications.
+
+💡 My main areas of interest include:
+
+Web Development – from clean, responsive UIs to full-stack systems
+
+Artificial Intelligence – exploring how models can power smarter experiences
+
+Data Science & Machine Learning – turning data into insights and innovation
+
+🌱 I'm always learning, experimenting, and contributing to meaningful projects. I’m especially excited about how web, AI, and data science intersect to create real-world impact.
+
+Let’s connect and build something awesome together!
 ---
 
-- 🌱 I'm currently learning Front-end, using HTML5, CSS3 and Javascript technologies.
+- 🌱 I'm passionate about Front-end, using HTML5, CSS3 and Javascript, and React Framework.
+- I'm currently learning Python for Data Science, Machine Learning, and ETL. 
 - 👯 I'm looking to collaborate on projects where I can practice the technologies I'm learning.
 - I have an Instagram profile where I share tips from the World of Programming, the profile is @mundo.daprogramacao.
 
